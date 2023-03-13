@@ -15,9 +15,9 @@
   hook can shoot the enemy, and if he shoots all his enemies, he wins the game.
 
   Controls: 
-  Mouse - player direction
-  WASD - Moving
-  space - pistol shooting
+* Mouse - player direction
+* WASD - Moving
+* space - pistol shooting
 
 ##### Still if you have any issues or suggestions, please feel free to open an [issue](https://github.com/PavelKhabusov/macaroni/issues/new)
 
